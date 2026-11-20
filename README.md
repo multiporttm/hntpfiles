@@ -1,1 +1,2 @@
-# hntpfiles
+# Hello New Tab - Custom NTP for Gecko and Chromium
+Replaces the New Tab Page with a clean, customizable start page or your own custom URL while keeping the address bar empty. The way it keeps the address bar empty is by embedding the website that you typed. Hello NTP Default includes weather, backround, and search engine. You can choose from DuckDuckGo, Brave Search, or Google by clicking the ✏ button in the bottom. To change weather city, select the ... button in weather widget. Type examples such as Chicago, IL or London, UK. To change to NTP Default or custom url, select the extension icon in your browser toolbar. Extension is soon available for chromium browsers. See more at multiportllc.com.
